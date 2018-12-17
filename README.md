@@ -5,4 +5,4 @@ Presentation at DeepLearningItalia Meetup (LUISS ENLABS) of my Bachelor's Thesis
 
 
 ## Enjoy :) 
-![](imgs/ss.gif)
+![](imgs/sss.gif)
